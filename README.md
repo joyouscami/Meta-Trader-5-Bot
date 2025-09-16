@@ -8,31 +8,31 @@ Financial markets generate massive streams of time series data. Traders often re
 
 The project involves:
 
-Connecting to MetaTrader 5 and retrieving historical data (candlesticks, OHLCV)
+- Connecting to MetaTrader 5 and retrieving historical data (candlesticks, OHLCV)
 
-Preprocessing and cleaning raw financial time series
+- Preprocessing and cleaning raw financial time series
 
-Engineering features such as moving averages, RSI, and volatility measures
+- Engineering features such as moving averages, RSI, and volatility measures
 
-Building predictive models to forecast short-term price movements
+- Building predictive models to forecast short-term price movements
 
-Designing a framework for backtesting and evaluating strategies
+- Designing a framework for backtesting and evaluating strategies
 
-Deploying a trading bot capable of executing trades based on predictions
+- Deploying a trading bot capable of executing trades based on predictions
 
 🛠️ Tech Stack
 
-Python – core development
+- Python – core development
 
-MetaTrader 5 (MT5) API – market data & trade execution
+- MetaTrader 5 (MT5) API – market data & trade execution
 
-pandas, numpy – data manipulation
+- pandas, numpy – data manipulation
 
-matplotlib, seaborn – visualization
+- matplotlib, seaborn – visualization
 
-scikit-learn – machine learning models (in progress)
+- scikit-learn – machine learning models (in progress)
 
-statsmodels – time series analysis (planned)
+- statsmodels – time series analysis (planned)
 
 📂 Repository Structure
 mt5-trading-bot/
@@ -58,33 +58,33 @@ mt5-trading-bot/
 
 📈Insights (so far)
 
-Market volatility clusters are visible in historical data, suggesting modeling opportunities
+- Market volatility clusters are visible in historical data, suggesting modeling opportunities
 
-Moving averages show strong potential for trend-following strategies
+- Moving averages show strong potential for trend-following strategies
 
-Preliminary exploration indicates certain patterns before high-volume moves
+- Preliminary exploration indicates certain patterns before high-volume moves
 
 🌟 Why This Project Matters
 
-Algorithmic trading is where finance meets data science. This project demonstrates my ability to:
+- Algorithmic trading is where finance meets data science. This project demonstrates my ability to:
 
-Work with real-world financial APIs
+- Work with real-world financial APIs
 
-Apply time series analysis and machine learning to market data
+- Apply time series analysis and machine learning to market data
 
-Engineer features relevant to trading strategies
+- Engineer features relevant to trading strategies
 
-Design a system that moves from exploration → modeling → automation
+- Design a system that moves from exploration → modeling → automation
 
 🚀 Future Work
 
-Implement and evaluate ML models (logistic regression, random forests, LSTMs)
+- Implement and evaluate ML models (logistic regression, random forests, LSTMs)
 
-Backtest strategies against historical data for performance validation
+- Backtest strategies against historical data for performance validation
 
-Automate trading execution within MT5
+- Automate trading execution within MT5
 
-Extend to risk management strategies (stop loss, take profit, position sizing)
+- Extend to risk management strategies (stop loss, take profit, position sizing)
 
 👩‍💻 About Me
 
