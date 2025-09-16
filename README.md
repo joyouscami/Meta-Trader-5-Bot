@@ -34,16 +34,6 @@ The project involves:
 
 - statsmodels – time series analysis (planned)
 
-📂 Repository Structure
-mt5-trading-bot/
-│
-├── data/                 # Historical market data
-├── notebooks/            # Exploratory analysis & prototyping
-├── bot/                  # Core trading bot logic (in progress)
-├── utils/                # Helper functions (API calls, feature engineering)
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
-
 🚧 Current Progress
 
 ✅ Connected to MetaTrader 5 and retrieved historical OHLCV data
