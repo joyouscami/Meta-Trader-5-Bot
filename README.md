@@ -2,7 +2,7 @@
 
 This project is a work-in-progress where I am building a Python-based trading bot that connects to MetaTrader 5 (MT5), leverages historical market data, and applies data science techniques to predict trade opportunities. The aim is to combine algorithmic trading strategies with data-driven forecasting for improved decision-making in financial markets.
 
-🔍 Project Overview
+### Project Overview
 
 Financial markets generate massive streams of time series data. Traders often rely on intuition or static rules, but this project explores how machine learning and statistical analysis can augment trading decisions.
 
@@ -20,7 +20,7 @@ The project involves:
 
 - Deploying a trading bot capable of executing trades based on predictions
 
-🛠️ Tech Stack
+Tech Stack
 
 - Python – core development
 
@@ -46,7 +46,7 @@ The project involves:
 
 ⏳ Next step: integrate predictions into a backtesting framework
 
-📈Insights (so far)
+### Insights (so far)
 
 - Market volatility clusters are visible in historical data, suggesting modeling opportunities
 
@@ -54,7 +54,7 @@ The project involves:
 
 - Preliminary exploration indicates certain patterns before high-volume moves
 
-🌟 Why This Project Matters
+Why This Project Matters
 
 - Algorithmic trading is where finance meets data science. This project demonstrates my ability to:
 
@@ -66,7 +66,7 @@ The project involves:
 
 - Design a system that moves from exploration → modeling → automation
 
-🚀 Future Work
+Future Work
 
 - Implement and evaluate ML models (logistic regression, random forests, LSTMs)
 
