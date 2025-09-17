@@ -1,4 +1,4 @@
-🤖 MetaTrader 5 Trading Bot – Predictive Analysis with Historical Data
+### 🤖 MetaTrader 5 Trading Bot – Predictive Analysis with Historical Data
 
 This project is a work-in-progress where I am building a Python-based trading bot that connects to MetaTrader 5 (MT5), leverages historical market data, and applies data science techniques to predict trade opportunities. The aim is to combine algorithmic trading strategies with data-driven forecasting for improved decision-making in financial markets.
 
