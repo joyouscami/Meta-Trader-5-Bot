@@ -20,7 +20,7 @@ The project involves:
 
 - Deploying a trading bot capable of executing trades based on predictions
 
-Tech Stack
+### Tech Stack
 
 - Python – core development
 
@@ -34,7 +34,7 @@ Tech Stack
 
 - statsmodels – time series analysis (planned)
 
-🚧 Current Progress
+### Current Progress
 
 ✅ Connected to MetaTrader 5 and retrieved historical OHLCV data
 
@@ -54,7 +54,7 @@ Tech Stack
 
 - Preliminary exploration indicates certain patterns before high-volume moves
 
-Why This Project Matters
+### Why This Project Matters
 
 - Algorithmic trading is where finance meets data science. This project demonstrates my ability to:
 
@@ -66,7 +66,7 @@ Why This Project Matters
 
 - Design a system that moves from exploration → modeling → automation
 
-Future Work
+### Future Work
 
 - Implement and evaluate ML models (logistic regression, random forests, LSTMs)
 
